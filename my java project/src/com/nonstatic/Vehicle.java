@@ -4,4 +4,5 @@ public class Vehicle {
 
 	String colour;
 	double speed;
+	String name;
 }
