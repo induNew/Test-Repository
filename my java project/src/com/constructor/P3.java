@@ -6,7 +6,7 @@ public class P3 {
 		System.out.println("from P3()");
 	}
 	
-	public static void main(String[]args)
+	public static void main(String[]args) {
 	P3 ob=new P3();
 	
 	

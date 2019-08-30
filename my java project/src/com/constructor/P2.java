@@ -8,7 +8,7 @@ public class P2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		P2 ob=new P2();//CTE
+		//P2 ob=new P2();//CTE
 
 	}
 

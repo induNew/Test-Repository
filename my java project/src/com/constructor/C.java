@@ -8,7 +8,7 @@ public class C {
 	}
 	C(int i)
 	{	
-		this();
+		
 		System.out.println("From B(int)");
 	}
 
