@@ -6,11 +6,12 @@ public class Loan {
 	int tennure;
 	double amount;
 	
-	double interest(int p)
+	void interest(int p)
 	{
 		double amount1=p+(double)(p*roi*tennure)/100;
-		System.out.println(amount1);
-		return amount1;
+		System.out.println("Loan to repay:"+amount1);
+		System.out.println("principal:"+p);
+		
 	}
 	
 	
